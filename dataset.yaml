@@ -1,0 +1,7 @@
+path: C:\Users\Jihane\Downloads\walid\walid
+train: train/images
+val: val/images
+test: test/images
+
+nc: 20
+names: ['ciseaux', 'cl� � molette', 'cutteur', 'jeu de cl�s m�les six pans coud�es', 'jeu de cl�s m�les six pans droites', 'jeu de cl�s m�les � empreinte\xa0en\xa0�toile', 'mini pince coupante', 'mini pince � bec demi-rond', 'mini pince � bec demi-rond coud�', 'mini pince � bec plat', 'pince d��lectronique de pr�cision', 'pointe � tracer', 'pointeau automatique', 'tournevis am�ricain grand', 'tournevis am�ricain mini', 'tournevis am�ricain moyen', 'tournevis am�ricain petit', 'tournevis plat grand', 'tournevis plat mini', 'tournevis plat petit']
